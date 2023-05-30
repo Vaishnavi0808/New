@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.shubham.movieschedule.MovieScheduleApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 5.573 s <<< FAILURE! - in com.shubham.movieschedule.MovieScheduleApplicationTests
+testFindAllMoviesByDate  Time elapsed: 0.051 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "org.springframework.http.ResponseEntity.getStatusCode()" because "responseEntity" is null
+	at com.shubham.movieschedule.MovieScheduleApplicationTests.testFindAllMoviesByDate(MovieScheduleApplicationTests.java:100)
+

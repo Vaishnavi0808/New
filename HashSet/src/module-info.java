@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vasarode
+ *
+ */
+module HashSet {
+}
